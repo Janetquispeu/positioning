@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.bloque{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	margin-left: 10px;
+
+}
+.rosado{
+	background-color: #ee3e64;
+	margin-top: 10px;
+
+}
+.turquesa{
+	background-color: #44accf;
+	position: absolute;
+	left: 200px;
+}
+.verde{
+	background-color: #b7d84b;
+}
+.amarillo{
+	background-color: yellow;
+}

@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.bloque{
+	height: 200px;
+	position: relative;
+}
+.rosado{
+	background-color: #ee3e64;
+	width: 200px;
+}
+.turquesa{
+	background-color: #44accf;
+	width: 200px;
+	left: 200px;
+}
+.verde{
+	background-color: #b7d84b;
+	width: 200px;
+}
